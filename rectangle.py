@@ -23,7 +23,6 @@ if __name__ == "__main__":
     for dimension in rect:
         print(dimension)
 
-    # You can also convert it to a list
     print("\nConverting iterator to list:")
     dimensions_list = list(rect)
     print(dimensions_list)
